@@ -1,4 +1,4 @@
-var CACHE = 'ds-quiz-v5';
+var CACHE = 'ds-quiz-v6';
 var FILES = ['./index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', function(e) {
